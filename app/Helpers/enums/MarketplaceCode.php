@@ -4,7 +4,7 @@ class MarketplaceCode extends \Enum{
     const AMAZON = 'AMAZON';
     const CCKSPT = 'CCKSPT';
     const HPSBRD = 'HPSBRD';
-    const TRDNYL = 'TRDNYL';
+    const TRDNYL = 'TRNDYL';
     const AKLLPHN = 'AKLLPHN';
     const WECRT = 'WECRT';
 
